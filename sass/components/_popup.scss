@@ -27,6 +27,10 @@
   &__left {
     width: 33.3333333%;
     display: table-cell;
+
+    @include respond(phone) {
+      display: none;
+    }
   }
 
   &__right {
