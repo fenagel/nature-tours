@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fenagel/spreewald-tours.git"
+    "url": "git+https://github.com/fenagel/nature-tours.git"
   },
   "author": "Felix",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fenagel/spreewald-tours/issues"
+    "url": "https://github.com/fenagel/nature-tours/issues"
   },
-  "homepage": "https://github.com/fenagel/spreewald-tours#readme",
+  "homepage": "https://github.com/fenagel/nature-tours#readme",
   "devDependencies": {
     "autoprefixer": "^10.0.1",
     "concat": "^1.0.3",
